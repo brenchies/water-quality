@@ -1,5 +1,5 @@
 <?php
-include('database_info.php');
+include('databaseinfo.php');
 $ip = $_SERVER['REMOTE_ADDR'];
 $unitid  = $_GET['unitid'];
 $temp  = $_GET['temp'];
