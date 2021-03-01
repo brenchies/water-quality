@@ -4,7 +4,9 @@ Code and design info for our water quality monitoring station as it develops
 Currently, the Arduino code is a mash-up of scripts from Atlas Scientific and Dweet.io, with references linked below. For Atlas Scientific references, you can download the Arduino code from the Documents & Downloads section of the page for each sensor.
 
 Atlas Scientific DO sensor: https://atlas-scientific.com/probes/dissolved-oxygen-probe/
+
 Atlas Scientific pH sensor: https://atlas-scientific.com/probes/ph-probe/
+
 Atlas Scientific temperature sensor: https://atlas-scientific.com/probes/pt-1000-temperature-probe/
 
 # challenges
