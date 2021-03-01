@@ -9,5 +9,7 @@ Atlas Scientific pH sensor: https://atlas-scientific.com/probes/ph-probe/
 
 Atlas Scientific temperature sensor: https://atlas-scientific.com/probes/pt-1000-temperature-probe/
 
+Dweeting code for Arduino that we repurposed: https://www.hackster.io/javier-munoz-saez/esp8266-sending-data-to-an-online-deskboard-3e7e91
+
 # challenges
 Right now the setup needs both power and wifi. We would like to have a more flexible setup, so we could run it off a battery, maybe with a solar panel, and collect data on an SD card or even through GSM or LoRa. The easiest functional scenario with our current setup is to bring a phone as a hotspot and power it with a laptop. The next step up would be to get someone with a pier to let us hook it up to their power and wifi.
