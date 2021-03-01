@@ -28,7 +28,7 @@ const char* device = "omega";
 // WiFi parameters
 const char* ssid = "Your_Wifi"; //insert your wifi SSID here
 const char* password = "Your_Password"; //insert your wifi password here
-String thingName="datacollector.php?unitid=24"; //thing for grouping all the data together 
+String thingName="data_collector.php?unitid=24"; //thing for grouping all the data together 
 const char* host = "YourWebsite.com"; //host :) for tcp connection
 
 // Data stuff
