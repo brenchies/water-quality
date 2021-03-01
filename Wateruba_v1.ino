@@ -28,8 +28,8 @@ const char* device = "omega";
 // WiFi parameters
 const char* ssid = "Your_Wifi"; //insert your wifi SSID here
 const char* password = "Your_Password"; //insert your wifi password here
-String thingName="thedata2.php?unitid=24"; //thing for grouping all the data together 
-const char* host = "brenchies.com"; //host :) for tcp connection
+String thingName="datacollector.php?unitid=24"; //thing for grouping all the data together 
+const char* host = "YourWebsite.com"; //host :) for tcp connection
 
 // Data stuff
 String arrayVariableNames[]={"variable","unitid","temp","ph","do"}; //THIS WAY WE REFER TO EACH VARIABLE AS AN INDEX IN THIS GLOBAL ARRAY.
