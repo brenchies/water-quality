@@ -1,5 +1,5 @@
 # water-quality
-Code and design info for our water quality monitoring station as it develops
+*Code and design info for our water quality monitoring station as it develops*
 
 Currently, the Arduino code is a mash-up of scripts from Atlas Scientific and Dweet.io, with references linked below. For Atlas Scientific references, you can download the Arduino code from the Documents & Downloads section of the page for each sensor.
 
