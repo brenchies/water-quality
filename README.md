@@ -9,7 +9,7 @@ Recently started updating code to combine the Atlas Scientific scrippts with Ada
 
 * **Atlas Scientific temperature sensor**: https://atlas-scientific.com/probes/pt-1000-temperature-probe/
 
-* **Adafruit IO example code**: https://learn.adafruit.com/adafruit-io-basics-temperature-and-humidity
+* **Adafruit IO example Arduino code**: https://learn.adafruit.com/adafruit-io-basics-temperature-and-humidity
 
 * **Dweeting code for Arduino that we repurposed**: https://www.hackster.io/javier-munoz-saez/esp8266-sending-data-to-an-online-deskboard-3e7e91
 
