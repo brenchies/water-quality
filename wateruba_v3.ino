@@ -17,6 +17,8 @@ char T_cal[4];
 char *do_data;                        //char pointer used in string parsing.
 char *sat_data;                       //char pointer used in string parsing.
 
+int count = 0;
+
 int period = 10000; //delay between samples
 
 // need to add feeds for temperature, DO, and pH <<<<<<<<<<<<<<<<<<<<<<<<<<
